@@ -10,4 +10,6 @@ sudo usermod -aG group1 user1
 sudo userdel -r user1
 sudo groupdel group1
 
-**DRILL #2:  **
+**DRILL #2: Permissions and Ownerships**
+
+
